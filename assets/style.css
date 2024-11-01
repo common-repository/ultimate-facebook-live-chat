@@ -1,0 +1,49 @@
+div#chat-box {
+    position: fixed;
+    bottom: 20px;
+        background: #2196f3;
+    float: right;
+    padding: 8px 8px;
+    color: #fff;
+    font-size: 15px;
+    right: 35px;
+    cursor: pointer;
+    width: 13%;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 0px 0px 10px 0px #ddd;
+
+}
+div#chat-box-img {
+   position: fixed;
+    bottom: 7px;
+    float: right;
+    right: 35px;
+    cursor: pointer;
+    width: 5%;
+    text-align: center;
+}
+
+.box-chat {
+    position: fixed;
+    bottom: 3px;
+    right: 35px;
+    border: 4px solid #2196F3;
+    z-index: 100;
+    cursor: pointer;
+
+}
+.cross {
+    float: right;
+    position: absolute;
+    top: -13px;
+    right: -12px;
+    z-index: 10;
+}
+
+
+
+
+
+
+
